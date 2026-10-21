@@ -1,0 +1,8 @@
+{
+  "name": "SaveOnCare Intelligence Lab",
+  "description": "Healthcare billing analytics, benchmark coverage analysis, discrepancy detection, data-quality auditing, and pilot economics modeling for SaveOnCare by VoltEdge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
